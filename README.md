@@ -10,4 +10,4 @@ There are 3 parts to the application
 
 I am using Module federation plugin of webpack to bundle the remote applications (app-1 and app-2) and use them as a dependencies inside container app.
 
-Not: This is not a Monorepo structure.
+Note: This is not a Monorepo structure.
